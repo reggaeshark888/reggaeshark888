@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is David, and I am interested in almost anything computer science-related.
+
+- 🔭 I’m currently working on an MEV bot and NumerAI models.
+- 💥 I recently built a product for a pre-seed startup.
+- 🌱 I’m currently learning programming GPUs for LLMs and number theory for cryptocurrencies.
+
 <!--
 **reggaeshark888/reggaeshark888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
