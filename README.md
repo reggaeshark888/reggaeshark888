@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is David, and I am interested in almost anything computer science-related.
+My name is David, and I am interested in almost anything computer science-related, but my main interest is AI.
 
 - 🔭 I’m currently working on an MEV bot and NumerAI models.
 - 💥 I recently built a product for a pre-seed startup.
