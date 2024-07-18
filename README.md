@@ -3,7 +3,7 @@
 My name is David, and I am interested in almost anything computer science-related, but my main interest is AI.
 
 - 🔭 I’m currently working on an MEV bot and NumerAI models.
-- 💥 I recently built a product for a pre-seed startup.
+- 💥 I recently built a [product](https://github.com/reggaeshark888/StartupProductShowcase) for a pre-seed startup.
 - 🌱 I’m currently learning programming GPUs for LLMs and number theory for cryptocurrencies.
 
 <!--
